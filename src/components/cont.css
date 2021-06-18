@@ -1,0 +1,46 @@
+.main_div{
+    /* background-color: rgb(184, 181, 177); */
+    /* height: 91.5vh; */
+    /* width: 20%; */
+    justify-content: center;
+   
+    align-items: center;
+    margin: auto;
+ } 
+.contact{
+    background-color: rgb(105, 88, 66);
+    height: 59vh;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    padding: 10px;
+    border-radius: 12px;
+    margin-top: 14px;
+}
+input{
+    padding: 5px;
+    outline: none;
+    border: none;
+    /* background: transparent; */
+    border-radius: 10px;
+    
+}
+.displayshow{
+    background-color: rgb(15, 16, 107);
+    height: 70vh;
+    width: 50%;
+    display: none;
+    flex-direction: column;
+    margin: auto;
+    padding: 10px;
+}
+.main_btn{
+    
+    margin: 10px;
+    /* justify-content: center; */
+    padding: 1px;
+    flex-direction: row-reverse;
+    display: flex;
+    
+}
