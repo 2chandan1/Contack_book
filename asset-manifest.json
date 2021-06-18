@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Contack_book/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Contack_book/static/js/main.53cc7747.chunk.js",
+    "main.js.map": "/Contack_book/static/js/main.53cc7747.chunk.js.map",
+    "runtime-main.js": "/Contack_book/static/js/runtime-main.b23d0165.js",
+    "runtime-main.js.map": "/Contack_book/static/js/runtime-main.b23d0165.js.map",
+    "static/css/2.56001c6a.chunk.css": "/Contack_book/static/css/2.56001c6a.chunk.css",
+    "static/js/2.bcce52c2.chunk.js": "/Contack_book/static/js/2.bcce52c2.chunk.js",
+    "static/js/2.bcce52c2.chunk.js.map": "/Contack_book/static/js/2.bcce52c2.chunk.js.map",
+    "index.html": "/Contack_book/index.html",
+    "static/css/2.56001c6a.chunk.css.map": "/Contack_book/static/css/2.56001c6a.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/Contack_book/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.bcce52c2.chunk.js.LICENSE.txt": "/Contack_book/static/js/2.bcce52c2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b23d0165.js",
+    "static/css/2.56001c6a.chunk.css",
+    "static/js/2.bcce52c2.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.53cc7747.chunk.js"
+  ]
+}
